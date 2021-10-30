@@ -8,4 +8,4 @@ Neste App foi desenvolvido a funcionalidade de conversão de moedas automática 
 
 Basta inserir o valor desejado em qualquer campo que será apresentado o valor convertido para os demais.
 
-O projeto foi desenvolvido por volta de 07/20221.
+O projeto foi desenvolvido por volta de 07/2021.
